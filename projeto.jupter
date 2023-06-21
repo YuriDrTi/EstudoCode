@@ -1,0 +1,3 @@
+import 
+URL='http://api.covid19api.com/dayone/coutry/brazil'
+res= r.get(URL)
